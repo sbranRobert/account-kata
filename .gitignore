@@ -102,3 +102,5 @@ dist
 
 # TernJS port file
 .tern-port
+/.idea/account-kata.iml
+/.idea/

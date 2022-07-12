@@ -1,0 +1,22 @@
+{
+  "name": "account-kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbranRobert/account-kata.git"
+  },
+  "author": "sbran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbranRobert/account-kata/issues"
+  },
+  "homepage": "https://github.com/sbranRobert/account-kata#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
