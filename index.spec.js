@@ -1,3 +1,5 @@
+const Account = require('./index');
+
 describe('Account', () => {
     test('should be the amount added to the balance', () => {
         // Given
